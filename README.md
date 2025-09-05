@@ -22,7 +22,5 @@ It allows users to register, log in, and manage expenses with persistent data st
 - **Database:** (add here if using MongoDB, MySQL, etc.)  
 - **Containerization:** Docker  
 
----
 
-## 📂 Project Structure
 
