@@ -22,5 +22,27 @@ It allows users to register, log in, and manage expenses with persistent data st
 - **Database:** (add here if using MongoDB, MySQL, etc.)  
 - **Containerization:** Docker  
 
+## 🚀 Setup & Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/Tracker-project.git
+cd Tracker-project
+
+cd backend
+npm install
+
+cd ..
+npm install
+
+cd backend
+node server.js
+
+ng serve
+
+docker build -t tracker-app .
+docker run -p 4200:4200 tracker-app
+
+
 
 
