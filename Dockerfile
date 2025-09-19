@@ -1,4 +1,3 @@
-
 # Step 1: Build Angular app
 FROM node:latest AS build
 
